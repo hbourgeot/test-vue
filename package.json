@@ -10,7 +10,12 @@
     "server:local": "ws --directory public --port=8888 --static.extensions json"
   },
   "dependencies": {
-    "vue": "^3.2.37"
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/free-regular-svg-icons": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/vue-fontawesome": "^3.0.1",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.0",
